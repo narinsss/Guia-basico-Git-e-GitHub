@@ -1,6 +1,6 @@
-### Git e Github ◾ ⚠ ✔ ↴ ⏬
+### Git e Github
 
-
+Resumo com base na aula Git e GitHub da plataforma Alura cursos, com tutor Vinícius Dias
 
 ##### Mudar de master para main ↴
 
@@ -141,4 +141,4 @@
 
 ⚠ **Committed:** Dados armazenados de forma segura;
 
-⚠**Untracked:** Arquivos existentes que não fazem parte do repositório Git;
+⚠**Untracked:** Arquivos existentes que não fazem parte do repo
