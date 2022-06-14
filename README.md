@@ -1,4 +1,4 @@
-### Git e Github
+### Guia básico de Git e Github para auxiliar nos estudos
 
 Resumo com base na aula Git e GitHub da plataforma Alura cursos, com tutor Vinícius Dias
 
